@@ -44,7 +44,7 @@ I specialize in building high-quality Android applications using **Kotlin**, **J
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TejasSampat&show_icons=true&theme=dark" alt="Tejas's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejasSampat&theme=dark" alt="Tejas's GitHub Streak" />
 </p>
 
 ---
