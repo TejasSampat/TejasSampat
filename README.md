@@ -41,13 +41,5 @@ I specialize in building high-quality Android applications using **Kotlin**, **J
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TejasSampat&theme=dark" alt="Tejas's GitHub Streak" />
-</p>
-
----
-
 📫 **Connect with me:**  
 * **Location:** Mumbai, Maharashtra, India
